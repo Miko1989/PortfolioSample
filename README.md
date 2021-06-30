@@ -1,22 +1,13 @@
-Name
+portfolio Sample
 ====
-
-プロジェクトの概要説明
+ポートフォリオのサンプルです。
 
 ## デモ
-デモのURLや、スクリーンショットを記載する。
-
+[Webサイトを見る](https://dashboard.heroku.com/apps/techis-shimiz-portfolio-sample)
+![image](https://user-images.githubusercontent.com/85944030/123962846-d856ab80-d9ec-11eb-9be0-cf3d7772c148.png)
 ## 利用している技術
-使った言語やツールなどのバージョンを記載する。
+Html/CSS
 
 ## インスール方法
-インストールの仕方を記載する。
+そのままindex.htmlをブラウザで開くと閲覧できます。
 
-### その他に記載すると良い事項
-* システム構成図
-* 使い方
-    * インストール方法
-    * テスト方法
-    * デプロイ方法
-* こだわりポイント
-* ライセンス情報
